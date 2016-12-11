@@ -1,7 +1,7 @@
 Package.describe({
   name: "codeprox:admin",
   summary: "A complete admin dashboard solution",
-  version: "1.2.8",
+  version: "1.2.9",
   git: "https://github.com/dsandi/meteor-admin"
 });
 
