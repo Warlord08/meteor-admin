@@ -1,6 +1,8 @@
+Same code than yogiben:admin but changes default widget color to gray
+
 Meteor Admin
 ============
-`$ meteor add yogiben:admin`
+`$ meteor add codeprox:admin`
 
 To get a working example, clone and run my [Meteor starter](https://github.com/yogiben/meteor-starter) repo and then go to `/admin`.
 
